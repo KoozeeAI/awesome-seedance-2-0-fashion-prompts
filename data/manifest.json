@@ -1,0 +1,228 @@
+{
+  "case_count": 20,
+  "cases": [
+    {
+      "content_category": "Talking Head / UGC",
+      "fashion_use_case": "Handbag product showcase in UGC fashion haul",
+      "filename": "designer-handbag-ugc-haul-video.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Handbag",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/designer-handbag-ugc-haul-video.md",
+      "title": "Designer Handbag UGC Haul Video"
+    },
+    {
+      "content_category": "Product Commercial",
+      "fashion_use_case": "Luxury jewelry product commercial",
+      "filename": "diamond-necklace-luxury-commercial.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Jewelry",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/diamond-necklace-luxury-commercial.md",
+      "title": "Diamond Necklace Luxury Commercial"
+    },
+    {
+      "content_category": "Product Commercial",
+      "fashion_use_case": "UGC fashion advertisement showcasing a reference-matched embroidered dress and dupatta",
+      "filename": "embroidered-dress-ugc-product-commercial.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Dress",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/embroidered-dress-ugc-product-commercial.md",
+      "title": "Embroidered Dress UGC Product Commercial"
+    },
+    {
+      "content_category": "Product Commercial",
+      "fashion_use_case": "Sportswear fashion commercial",
+      "filename": "fila-puffer-jacket-sportswear-commercial.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Outerwear",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/fila-puffer-jacket-sportswear-commercial.md",
+      "title": "FILA Puffer Jacket Sportswear Commercial"
+    },
+    {
+      "content_category": "Cinematic Campaign",
+      "fashion_use_case": "Luxury fashion editorial campaign video with rapid outfit and styling detail showcases",
+      "filename": "fur-jacket-fashion-mugshot-campaign-video.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Mixed Fashion",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/fur-jacket-fashion-mugshot-campaign-video.md",
+      "title": "Fur Jacket Fashion Mugshot Campaign Video"
+    },
+    {
+      "content_category": "Product Commercial",
+      "fashion_use_case": "Footwear product commercial and construction showcase",
+      "filename": "futuristic-sneaker-product-commercial.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Shoes",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/futuristic-sneaker-product-commercial.md",
+      "title": "Futuristic Sneaker Product Commercial"
+    },
+    {
+      "content_category": "Product Commercial",
+      "fashion_use_case": "Luxury jewelry product commercial",
+      "filename": "gemstone-necklace-luxury-commercial.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Jewelry",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/gemstone-necklace-luxury-commercial.md",
+      "title": "Gemstone Necklace Luxury Commercial"
+    },
+    {
+      "content_category": "Product Commercial",
+      "fashion_use_case": "Jewelry product transformation showcase",
+      "filename": "gemstone-necklace-transformation-commercial.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Jewelry",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/gemstone-necklace-transformation-commercial.md",
+      "title": "Gemstone Necklace Transformation Commercial"
+    },
+    {
+      "content_category": "Creative Fashion Video",
+      "fashion_use_case": "Fantasy shoe transformation",
+      "filename": "jeweled-stiletto-transformation-video.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Shoes",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/jeweled-stiletto-transformation-video.md",
+      "title": "Jeweled Stiletto Transformation Video"
+    },
+    {
+      "content_category": "Product Commercial",
+      "fashion_use_case": "Luxury handbag collection commercial",
+      "filename": "luxury-crocodile-leather-handbag-commercial.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Handbag",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/luxury-crocodile-leather-handbag-commercial.md",
+      "title": "Luxury Crocodile Leather Handbag Commercial"
+    },
+    {
+      "content_category": "Creative Fashion Video",
+      "fashion_use_case": "Fashion Film",
+      "filename": "mustard-yellow-dress-street-fashion-film.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Dress",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/mustard-yellow-dress-street-fashion-film.md",
+      "title": "Mustard Yellow Dress Street Fashion Film"
+    },
+    {
+      "content_category": "Outfit Transition",
+      "fashion_use_case": "Fashion Film; outfit transformation",
+      "filename": "parisian-dress-transformation-fashion-film.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Dress",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/parisian-dress-transformation-fashion-film.md",
+      "title": "Parisian Dress Transformation Fashion Film"
+    },
+    {
+      "content_category": "Cinematic Campaign",
+      "fashion_use_case": "Fashion campaign video",
+      "filename": "pink-studded-hobo-bag-paris-fashion-campaign.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Handbag",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/pink-studded-hobo-bag-paris-fashion-campaign.md",
+      "title": "Pink Studded Hobo Bag Paris Fashion Campaign"
+    },
+    {
+      "content_category": "Cinematic Campaign",
+      "fashion_use_case": "Fashion Film",
+      "filename": "pinstripe-suit-executive-fashion-film.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Full Outfit",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/pinstripe-suit-executive-fashion-film.md",
+      "title": "Pinstripe Suit Executive Fashion Film"
+    },
+    {
+      "content_category": "Outfit Transition",
+      "fashion_use_case": "Outfit transition with pixel effects and identity-preserved garment changes",
+      "filename": "pixel-outfit-transformation-video.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Full Outfit",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/pixel-outfit-transformation-video.md",
+      "title": "Pixel Outfit Transformation Video"
+    },
+    {
+      "content_category": "Cinematic Campaign",
+      "fashion_use_case": "Fashion commercial featuring racing apparel and a luxury fragrance product",
+      "filename": "racing-suit-luxury-motorsport-commercial.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Mixed Fashion",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/racing-suit-luxury-motorsport-commercial.md",
+      "title": "Racing Suit Luxury Motorsport Commercial"
+    },
+    {
+      "content_category": "Creative Fashion Video",
+      "fashion_use_case": "Luxury shoe transformation",
+      "filename": "scorpion-stiletto-shoe-transformation-video.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Shoes",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/scorpion-stiletto-shoe-transformation-video.md",
+      "title": "Scorpion Stiletto Shoe Transformation Video"
+    },
+    {
+      "content_category": "Cinematic Campaign",
+      "fashion_use_case": "Luxury streetwear editorial campaign video with a prominently presented studded hobo bag and coordinated outfit",
+      "filename": "streetwear-bag-paris-fashion-campaign.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Mixed Fashion",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/streetwear-bag-paris-fashion-campaign.md",
+      "title": "Streetwear Bag Paris Fashion Campaign"
+    },
+    {
+      "content_category": "Cinematic Campaign",
+      "fashion_use_case": "Bridal fashion runway film",
+      "filename": "white-couture-bridal-runway-film.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Dress",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/white-couture-bridal-runway-film.md",
+      "title": "White Couture Bridal Runway Film"
+    },
+    {
+      "content_category": "Creative Fashion Video",
+      "fashion_use_case": "Fashion Editorial",
+      "filename": "y2k-vanity-fashion-editorial-video.md",
+      "media_type": "Video",
+      "normalized_model_key": "seedance-2-0",
+      "product_category": "Mixed Fashion",
+      "raw_model": "Seedance 2.0",
+      "source_path": "cases/y2k-vanity-fashion-editorial-video.md",
+      "title": "Y2K Vanity Fashion Editorial Video"
+    }
+  ],
+  "generated_from": "KoozeeAI/ai-fashion-prompts",
+  "normalized_model_key": "seedance-2-0",
+  "repository": "KoozeeAI/awesome-seedance-2-0-fashion-prompts"
+}
