@@ -15,11 +15,10 @@ Explore prompts by the fashion product featured in each case.
 
 - [FILA Puffer Jacket Sportswear Commercial](../cases/fila-puffer-jacket-sportswear-commercial.md)
 
-### Shoes (3)
+### Shoes (2)
 
 - [Futuristic Sneaker Product Commercial](../cases/futuristic-sneaker-product-commercial.md)
 - [Jeweled Stiletto Transformation Video](../cases/jeweled-stiletto-transformation-video.md)
-- [Scorpion Stiletto Shoe Transformation Video](../cases/scorpion-stiletto-shoe-transformation-video.md)
 
 ### Handbag (3)
 

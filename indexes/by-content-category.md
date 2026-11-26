@@ -14,11 +14,10 @@ Explore prompts by their primary fashion output type.
 - [Gemstone Necklace Transformation Commercial](../cases/gemstone-necklace-transformation-commercial.md)
 - [Luxury Crocodile Leather Handbag Commercial](../cases/luxury-crocodile-leather-handbag-commercial.md)
 
-### Creative Fashion Video (4)
+### Creative Fashion Video (3)
 
 - [Jeweled Stiletto Transformation Video](../cases/jeweled-stiletto-transformation-video.md)
 - [Mustard Yellow Dress Street Fashion Film](../cases/mustard-yellow-dress-street-fashion-film.md)
-- [Scorpion Stiletto Shoe Transformation Video](../cases/scorpion-stiletto-shoe-transformation-video.md)
 - [Y2K Vanity Fashion Editorial Video](../cases/y2k-vanity-fashion-editorial-video.md)
 
 ### Talking Head / UGC (1)

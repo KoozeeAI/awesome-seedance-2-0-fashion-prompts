@@ -58,10 +58,6 @@ Explore prompts by their intended fashion use case.
 - [Diamond Necklace Luxury Commercial](../cases/diamond-necklace-luxury-commercial.md)
 - [Gemstone Necklace Luxury Commercial](../cases/gemstone-necklace-luxury-commercial.md)
 
-### Luxury shoe transformation (1)
-
-- [Scorpion Stiletto Shoe Transformation Video](../cases/scorpion-stiletto-shoe-transformation-video.md)
-
 ### Luxury streetwear editorial campaign video with a prominently presented studded hobo bag and coordinated outfit (1)
 
 - [Streetwear Bag Paris Fashion Campaign](../cases/streetwear-bag-paris-fashion-campaign.md)

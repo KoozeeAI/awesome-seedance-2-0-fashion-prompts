@@ -1,5 +1,5 @@
 {
-  "case_count": 20,
+  "case_count": 19,
   "cases": [
     {
       "content_category": "Talking Head / UGC",
@@ -176,17 +176,6 @@
       "raw_model": "Seedance 2.0",
       "source_path": "cases/racing-suit-luxury-motorsport-commercial.md",
       "title": "Racing Suit Luxury Motorsport Commercial"
-    },
-    {
-      "content_category": "Creative Fashion Video",
-      "fashion_use_case": "Luxury shoe transformation",
-      "filename": "scorpion-stiletto-shoe-transformation-video.md",
-      "media_type": "Video",
-      "normalized_model_key": "seedance-2-0",
-      "product_category": "Shoes",
-      "raw_model": "Seedance 2.0",
-      "source_path": "cases/scorpion-stiletto-shoe-transformation-video.md",
-      "title": "Scorpion Stiletto Shoe Transformation Video"
     },
     {
       "content_category": "Cinematic Campaign",
